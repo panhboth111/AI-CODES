@@ -1,20 +1,20 @@
-TEAM NAME:
-Anacondrive
+# TEAM Name:
+_Anacondrive_
 
-TEAM MEMBERS:
-Neak Panhboth
-Sath Sovireak
-Sokun Deborey
-Ly Daneth
+## TEAM MEMBERS
+1. Neak Panhboth
+2. Sath Sovireak
+3. Sokun Deborey
+4. Ly Daneth
 
-NUMBER OF PROGRAMS:
-60
+# NUMBER OF PROGRAMS:
+There are 60 programs.
 
-NUMPY:
+# NUMPY:
 Numpy Basics
 
-Matplotlib;
+# Matplotlib;
 Matplotlib basics
 
-Pandas:
+# Pandas:
 Data Series
