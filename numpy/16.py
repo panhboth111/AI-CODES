@@ -5,3 +5,4 @@ print("MATRIX:")
 print(m)
 print(f" rows:{m.shape[0]}")
 print(f" columns:{m.shape[1]}")
+#
