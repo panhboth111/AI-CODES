@@ -18,9 +18,16 @@ dtype: int64 """
 
 import pandas as pd
 import numpy as np
+<<<<<<< HEAD
 np.random.RandomState(100)
+=======
+>>>>>>> borey
 num_series = pd.Series(np.random.randint(1, 5, [15]))
 print("Original Series:")
 print(num_series)
 print("Top 2 Freq:", num_series.value_counts())
+<<<<<<< HEAD
 result = num_series[~num_series.isin(num_series.value_counts().index[:1])] = 'Other'
+=======
+result = num_series[~num_series.isin(num_series.value_counts().index[:1])] = 'Other'
+>>>>>>> borey
